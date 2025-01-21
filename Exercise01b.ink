@@ -83,7 +83,7 @@ You close your eyes and wander aimlessly through the fog. After a few minutes, y
 You continue following the note's directions.
 ...
 Bonk! That must have hurt.
-You reach your hands out and find a wall, and the voices you heard earlier let out a group of chuckles.
+You reach your hands out and find a wall, and the voices you heard earlier let out a few chuckles.
 * [Open your eyes] -> gods_room
 
 == gods_room ==
